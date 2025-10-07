@@ -20,6 +20,7 @@ uv run --with jupyter jupyter lab
 
 References
 ----------
+https://kellerjordan.github.io/posts/muon/
 
 https://thinkingmachines.ai/blog/modular-manifolds/
 
